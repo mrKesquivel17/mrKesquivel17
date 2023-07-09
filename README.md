@@ -4,7 +4,7 @@
     <img
       src="https://github-readme-stats-steel-omega.vercel.app/api?username=mrKesquivel17&show_icons=true&include_all_commits=true&hide_border=true&number_format=long&rank_icon=percentile&show=reviews,discussions_started,discussions_answered#gh-light-mode-only"
       alt="My Github stats"
-      height="250"
+      height="200"
     />
   </a>
   <a href="https://github.com/mrKesquivel171#gh-light-mode-only">
