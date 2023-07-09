@@ -49,7 +49,7 @@
 <div align="center">
   <a href="https://github.com/mrKesquivel17#gh-dark-mode-only">
     <img
-       src="https://streak-stats.demolab.com/?user=qwerty541&background=0d1117&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&fire=2d77dc&ring=2d77dc&locale=en&type=svg&hide_border=true"
+       src="https://streak-stats.demolab.com/?user=mrKesquivel17&background=0d1117&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&fire=2d77dc&ring=2d77dc&locale=en&type=svg&hide_border=true"
        alt="My GitHub streak stats"
      />
   </a>
